@@ -1,0 +1,685 @@
+{
+    "fix_dns_down_url": "https://a.app.qq.com/o/simple.jsp?pkgname=com.wbxm.icartoon",
+    "head_cover": "http://image.samanlehua.com/file/kanmanhua_images/head/{0}.jpg",
+    "sort_cover": "http://image.samanlehua.com/file/kanmanhua_images/sort/{0}.png",
+    "front_cover": "http://image.samanlehua.com/mh/{0}.jpg",
+    "gobal_cover": "http://mhpic.samanlehua.com",
+    "news_cover": "http://image.samanlehua.com/news/{0}/{1}.jpg",
+    "comic_domain": "samanlehua.com",
+    "chapter_source_js": "/static/$$.js",
+    "newest_version": "1709141958",
+    "hash": "91831b8d974753ce0e8e4b20ec7b96c5",
+    "pakege_url_rule": "http://appdown.yyhao.com:81/down/kanmanhua/Icartoon_v1709141958_v1.6.5_$$.apk",
+    "comic_size": "-kmw.middle",
+    "update_title": "看漫画1.6.5更新",
+    "update_desc": "亲爱的用户老爷们:<br>经过程序员哥哥加班加点的工作，终于完成了史上最重要的更新。<br> 赶紧更新来体验最强大的看漫画吧！！！",
+    "site_notice": "欢迎使用看漫画app，有任何问题，都可以跟我们反馈哦！",
+    "temp_time": "20170926154025",
+    "emoji": "http://emoji.yyhao.com/api/pkgs",
+    "auto_update": {
+        "android": {
+            "newver_outer": "1.6.5",
+            "newver_inner": "1709141958",
+            "down_url": "http://appdown.yyhao.com:81/down/kanmanhua/Icartoon_v1709141958_v1.6.5_$$.apk",
+            "update_desc": "亲爱的用户老爷们:<br>经过程序员哥哥加班加点的工作，终于完成了史上最重要的更新。<br> 赶紧更新来体验最强大的看漫画吧！！！",
+            "force_level": {
+                "1.2.0": "5",
+                "1.2.5": "5",
+                "1.3.0": "5",
+                "1.3.3": "5",
+                "1.3.4": "5",
+                "1.3.5": "5",
+                "1.3.6": "5",
+                "1.3.7": "5",
+                "1.3.8": "5",
+                "1.3.9": "5",
+                "1.4.0": "5",
+                "1.4.1": "5",
+                "1.4.2": "5",
+                "1.4.3": "1",
+                "1.4.4": "1",
+                "1.4.5": "1",
+                "1.4.6": "1",
+                "1.4.7": "0",
+                "1.4.8": "0",
+                "1.4.9": "0",
+                "1.5.0": "0",
+                "1.5.1": "0",
+                "1.5.2": "0",
+                "1.5.3": "0",
+                "1.5.4": "0",
+                "1.5.5": "0",
+                "1.5.6": "1",
+                "1.6.4": "1"
+            }
+        },
+        "iphone": {
+            "newver_outer": "1.5.4",
+            "newver_inner": "1705261045",
+            "down_url": "https://itunes.apple.com/cn/app/kan-man-huahd/id1179271135",
+            "update_desc": "用爱发电的大人们：<br>非常抱歉！！！<br>之前由于系统原因导致了大人在宠幸看漫娘时候出现了尴尬，现已紧急修复完毕啦！<br>请大人立刻前往更新，以免错过了精彩的漫画内容哦！<br>修复如下：<br>1、书架-我的订阅：更新标识紧急修补~<br>2、全新升级看漫娘~<br>3、修复老是闪退的问题~<br><br>请继续爱我~么么哒！",
+            "force_level": {
+                "1.2.0": "5",
+                "1.2.1": "5",
+                "1.2.2": "5",
+                "1.2.3": "5",
+                "1.2.4": "5",
+                "1.2.5": "5",
+                "1.3.8": "5",
+                "1.3.9": "1",
+                "1.4.0": "0",
+                "1.4.1": "0",
+                "1.4.2": "0",
+                "1.4.3": "0",
+                "1.4.4": "0",
+                "1.4.5": "0",
+                "1.4.6": "0",
+                "1.4.7": "0",
+                "1.4.8": "0",
+                "1.4.9": "0",
+                "1.5.0": "0",
+                "1.5.1": "0",
+                "1.5.2": "0",
+                "1.5.3": "1"
+            }
+        },
+        "ipad": {}
+    },
+    "book_cover": "http://image.samanlehua.com/file/kanmanhua_images/book/{0}.jpg",
+    "book_cover_comic": "http://image.samanlehua.com/",
+    "comic_sort": [
+        {
+            "sort_group": "剧情",
+            "data": {
+                "rexue": "热血",
+                "jizhan": "机战",
+                "yundong": "运动",
+                "tuili": "推理",
+                "maoxian": "冒险",
+                "liaomei": "耽美",
+                "baihe": "百合",
+                "gaoxiao": "搞笑",
+                "zhanzhen": "战争",
+                "shenmo": "神魔",
+                "renzhe": "忍者",
+                "jingji": "竞技",
+                "xuanyi": "悬疑",
+                "shehui": "社会",
+                "lianai": "恋爱",
+                "chongwu": "宠物",
+                "xixue": "吸血",
+                "luoli": "萝莉",
+                "hougong": "后宫",
+                "yujie": "御姐",
+                "bazong": "霸总",
+                "xuanhuan": "玄幻",
+                "gufeng": "古风",
+                "lishi": "历史",
+                "mangai": "漫改",
+                "youxi": "游戏",
+                "chuanyue": "穿越",
+                "kongbu": "恐怖",
+                "zhenren": "真人",
+                "kehuan": "科幻",
+                "dushi": "都市",
+                "wuxia": "武侠",
+                "xiuzhen": "修真",
+                "shenghuo": "生活",
+                "dongzuo": "动作"
+            }
+        },
+        {
+            "sort_group": "地区",
+            "data": {
+                "dalu": "大陆",
+                "riben": "日本",
+                "gangtai": "港台",
+                "oumei": "欧美",
+                "os": "韩国"
+            }
+        },
+        {
+            "sort_group": "进度",
+            "data": {
+                "lianzai": "连载",
+                "wanjie": "完结"
+            }
+        },
+        {
+            "sort_group": "色彩",
+            "data": {
+                "quancai": "全彩",
+                "heibai": "黑白"
+            }
+        },
+        {
+            "sort_group": "杂志",
+            "data": {
+                "zhiyinmanke": "知音漫客",
+                "shenman": "神漫",
+                "samanhua": "飒漫画",
+                "samanlehua": "飒漫乐画",
+                "fengxuanmanhua": "风炫漫画",
+                "aimanhua": "爱漫画",
+                "manhuazhoukan": "漫画周刊",
+                "mankezhan": "漫客栈",
+                "manhuapaidui": "漫画派对",
+                "manhuashijie": "漫画世界",
+                "manhuahui": "漫画会",
+                "zhongguokatong": "中国卡通",
+                "manhuashow": "漫画show",
+                "manyou": "漫友",
+                "leman": "乐漫",
+                "guaishoumanhua": "怪兽漫画",
+                "taomanhua": "淘漫画",
+                "jiman": "极漫",
+                "manwang": "漫王",
+                "yizhoumanhua": "壹周漫画",
+                "xingman": "星漫",
+                "kanmanhua": "看漫画"
+            }
+        },
+        {
+            "sort_group": "专题",
+            "data": {
+                "xiaoshuo": "小说改编",
+                "baozou": "邪恶内涵",
+                "zazhi": "杂志全本"
+            }
+        }
+    ],
+    "comic_sort_new": [
+        {
+            "sort_group": "剧情",
+            "data": [
+                {
+                    "id": 23,
+                    "name": "热血",
+                    "urlid": "rexue"
+                },
+                {
+                    "id": 24,
+                    "name": "机战",
+                    "urlid": "jizhan"
+                },
+                {
+                    "id": 27,
+                    "name": "运动",
+                    "urlid": "yundong"
+                },
+                {
+                    "id": 28,
+                    "name": "推理",
+                    "urlid": "tuili"
+                },
+                {
+                    "id": 30,
+                    "name": "冒险",
+                    "urlid": "maoxian"
+                },
+                {
+                    "id": 31,
+                    "name": "耽美",
+                    "urlid": "liaomei"
+                },
+                {
+                    "id": 32,
+                    "name": "百合",
+                    "urlid": "baihe"
+                },
+                {
+                    "id": 33,
+                    "name": "搞笑",
+                    "urlid": "gaoxiao"
+                },
+                {
+                    "id": 34,
+                    "name": "战争",
+                    "urlid": "zhanzhen"
+                },
+                {
+                    "id": 35,
+                    "name": "神魔",
+                    "urlid": "shenmo"
+                },
+                {
+                    "id": 38,
+                    "name": "忍者",
+                    "urlid": "renzhe"
+                },
+                {
+                    "id": 39,
+                    "name": "竞技",
+                    "urlid": "jingji"
+                },
+                {
+                    "id": 41,
+                    "name": "悬疑",
+                    "urlid": "xuanyi"
+                },
+                {
+                    "id": 42,
+                    "name": "社会",
+                    "urlid": "shehui"
+                },
+                {
+                    "id": 43,
+                    "name": "恋爱",
+                    "urlid": "lianai"
+                },
+                {
+                    "id": 44,
+                    "name": "宠物",
+                    "urlid": "chongwu"
+                },
+                {
+                    "id": 45,
+                    "name": "吸血",
+                    "urlid": "xixue"
+                },
+                {
+                    "id": 46,
+                    "name": "萝莉",
+                    "urlid": "luoli"
+                },
+                {
+                    "id": 47,
+                    "name": "后宫",
+                    "urlid": "hougong"
+                },
+                {
+                    "id": 48,
+                    "name": "御姐",
+                    "urlid": "yujie"
+                },
+                {
+                    "id": 51,
+                    "name": "霸总",
+                    "urlid": "bazong"
+                },
+                {
+                    "id": 54,
+                    "name": "玄幻",
+                    "urlid": "xuanhuan"
+                },
+                {
+                    "id": 55,
+                    "name": "古风",
+                    "urlid": "gufeng"
+                },
+                {
+                    "id": 58,
+                    "name": "历史",
+                    "urlid": "lishi"
+                },
+                {
+                    "id": 59,
+                    "name": "漫改",
+                    "urlid": "mangai"
+                },
+                {
+                    "id": 60,
+                    "name": "游戏",
+                    "urlid": "youxi"
+                },
+                {
+                    "id": 61,
+                    "name": "穿越",
+                    "urlid": "chuanyue"
+                },
+                {
+                    "id": 62,
+                    "name": "恐怖",
+                    "urlid": "kongbu"
+                },
+                {
+                    "id": 63,
+                    "name": "真人",
+                    "urlid": "zhenren"
+                },
+                {
+                    "id": 66,
+                    "name": "科幻",
+                    "urlid": "kehuan"
+                },
+                {
+                    "id": 67,
+                    "name": "都市",
+                    "urlid": "dushi"
+                },
+                {
+                    "id": 70,
+                    "name": "武侠",
+                    "urlid": "wuxia"
+                },
+                {
+                    "id": 71,
+                    "name": "修真",
+                    "urlid": "xiuzhen"
+                },
+                {
+                    "id": 72,
+                    "name": "生活",
+                    "urlid": "shenghuo"
+                },
+                {
+                    "id": 73,
+                    "name": "动作",
+                    "urlid": "dongzuo"
+                }
+            ]
+        },
+        {
+            "sort_group": "地区",
+            "data": [
+                {
+                    "id": 94,
+                    "name": "大陆",
+                    "urlid": "dalu"
+                },
+                {
+                    "id": 95,
+                    "name": "日本",
+                    "urlid": "riben"
+                },
+                {
+                    "id": 96,
+                    "name": "港台",
+                    "urlid": "gangtai"
+                },
+                {
+                    "id": 97,
+                    "name": "欧美",
+                    "urlid": "oumei"
+                },
+                {
+                    "id": 98,
+                    "name": "韩国",
+                    "urlid": "os"
+                }
+            ]
+        },
+        {
+            "sort_group": "进度",
+            "data": [
+                {
+                    "id": 99,
+                    "name": "连载",
+                    "urlid": "lianzai"
+                },
+                {
+                    "id": 100,
+                    "name": "完结",
+                    "urlid": "wanjie"
+                }
+            ]
+        },
+        {
+            "sort_group": "色彩",
+            "data": [
+                {
+                    "id": 101,
+                    "name": "全彩",
+                    "urlid": "quancai"
+                },
+                {
+                    "id": 102,
+                    "name": "黑白",
+                    "urlid": "heibai"
+                }
+            ]
+        },
+        {
+            "sort_group": "杂志",
+            "data": [
+                {
+                    "id": 103,
+                    "name": "知音漫客",
+                    "urlid": "zhiyinmanke"
+                },
+                {
+                    "id": 104,
+                    "name": "神漫",
+                    "urlid": "shenman"
+                },
+                {
+                    "id": 105,
+                    "name": "飒漫画",
+                    "urlid": "samanhua"
+                },
+                {
+                    "id": 106,
+                    "name": "飒漫乐画",
+                    "urlid": "samanlehua"
+                },
+                {
+                    "id": 107,
+                    "name": "风炫漫画",
+                    "urlid": "fengxuanmanhua"
+                },
+                {
+                    "id": 108,
+                    "name": "爱漫画",
+                    "urlid": "aimanhua"
+                },
+                {
+                    "id": 109,
+                    "name": "漫画周刊",
+                    "urlid": "manhuazhoukan"
+                },
+                {
+                    "id": 110,
+                    "name": "漫客栈",
+                    "urlid": "mankezhan"
+                },
+                {
+                    "id": 111,
+                    "name": "漫画派对",
+                    "urlid": "manhuapaidui"
+                },
+                {
+                    "id": 112,
+                    "name": "漫画世界",
+                    "urlid": "manhuashijie"
+                },
+                {
+                    "id": 113,
+                    "name": "漫画会",
+                    "urlid": "manhuahui"
+                },
+                {
+                    "id": 114,
+                    "name": "中国卡通",
+                    "urlid": "zhongguokatong"
+                },
+                {
+                    "id": 115,
+                    "name": "漫画show",
+                    "urlid": "manhuashow"
+                },
+                {
+                    "id": 116,
+                    "name": "漫友",
+                    "urlid": "manyou"
+                },
+                {
+                    "id": 117,
+                    "name": "乐漫",
+                    "urlid": "leman"
+                },
+                {
+                    "id": 118,
+                    "name": "怪兽漫画",
+                    "urlid": "guaishoumanhua"
+                },
+                {
+                    "id": 119,
+                    "name": "淘漫画",
+                    "urlid": "taomanhua"
+                },
+                {
+                    "id": 120,
+                    "name": "极漫",
+                    "urlid": "jiman"
+                },
+                {
+                    "id": 121,
+                    "name": "漫王",
+                    "urlid": "manwang"
+                },
+                {
+                    "id": 122,
+                    "name": "壹周漫画",
+                    "urlid": "yizhoumanhua"
+                },
+                {
+                    "id": 123,
+                    "name": "星漫",
+                    "urlid": "xingman"
+                },
+                {
+                    "id": 124,
+                    "name": "看漫画",
+                    "urlid": "kanmanhua"
+                }
+            ]
+        },
+        {
+            "sort_group": "专题",
+            "data": [
+                {
+                    "id": 125,
+                    "name": "小说改编",
+                    "urlid": "xiaoshuo"
+                },
+                {
+                    "id": 126,
+                    "name": "邪恶内涵",
+                    "urlid": "baozou"
+                },
+                {
+                    "id": 127,
+                    "name": "杂志全本",
+                    "urlid": "zazhi"
+                }
+            ]
+        }
+    ],
+    "comic_sort_new_sex": [
+        {
+            "sort_group": "推荐",
+            "data": {
+                "132": "男版",
+                "133": "女版"
+            }
+        }
+    ],
+    "danmu_appid": "aW!z12sm(s9",
+    "danmu_addr": "http://danmuapi.zymk.cn/barrage/v1/",
+    "video360": {
+        "wap": 0,
+        "android": 1,
+        "iphone": 1,
+        "ipad": 1
+    },
+    "mkxquser": "http://mkxq.zymk.cn/user/v1/",
+    "cnzz_siteid": "1261814609",
+    "cnzz_siteid_search": "1257506198",
+    "site_domain": "kanman.com",
+    "contactus": "http://h5inapp.kanman.com/contactus.htm",
+    "openwindow": "redirect.htm",
+    "user_agreement": "http://m.kanman.com/yhxy_h5.html",
+    "recommendpubclassimgurl": "http://image.samanlehua.com/recommend/{0}.jpg",
+    "image_size_suffix": {
+        "h3x4": "-600x800.jpg",
+        "m3x4": "-480x640.jpg",
+        "l3x4": "-300x400.jpg",
+        "h4x3": "-800x600.jpg",
+        "m4x3": "-640x480.jpg",
+        "l4x3": "-400x300.jpg",
+        "h16x7": "-800x350.jpg",
+        "m16x7": "-640x280.jpg",
+        "l16x7": "-400x175.jpg",
+        "h2x1": "-800x400.jpg",
+        "m2x1": "-640x320.jpg",
+        "l2x1": "-400x200.jpg",
+        "h16x9": "-800x450.jpg",
+        "m16x9": "-640x360.jpg",
+        "l16x9": "-400x225.jpg"
+    },
+    "chapter_source": {
+        "2": {
+            "sitename": "漫画160",
+            "charset": "gb2312"
+        },
+        "4": {
+            "sitename": "极速漫画网",
+            "charset": "utf-8"
+        },
+        "8": {
+            "sitename": "动漫屋",
+            "charset": "utf-8"
+        },
+        "9": {
+            "sitename": "动漫之家",
+            "charset": "utf-8"
+        },
+        "10": {
+            "sitename": "看漫画",
+            "charset": "utf-8"
+        },
+        "12": {
+            "sitename": "43423漫画网",
+            "charset": "gb2312"
+        },
+        "13": {
+            "sitename": "破漫画网",
+            "charset": "utf-8"
+        },
+        "15": {
+            "sitename": "9妹漫画网",
+            "charset": "gb2312"
+        },
+        "16": {
+            "sitename": "SF在线漫画",
+            "charset": "utf-8"
+        },
+        "17": {
+            "sitename": "KuKu动漫",
+            "charset": "gb2312"
+        },
+        "18": {
+            "sitename": "哦漫画网",
+            "charset": "utf-8"
+        },
+        "19": {
+            "sitename": "精明眼",
+            "charset": "utf-8"
+        },
+        "20": {
+            "sitename": "腾讯漫画",
+            "charset": "utf-8"
+        },
+        "21": {
+            "sitename": "笨狗漫画网",
+            "charset": "gb2312"
+        },
+        "22": {
+            "sitename": "57漫画网",
+            "charset": "utf-8"
+        },
+        "23": {
+            "sitename": "星辰漫画网",
+            "charset": "gb2312"
+        },
+        "27": {
+            "sitename": "漫本",
+            "charset": "utf-8"
+        },
+        "-1": {
+            "sitename": "看漫画",
+            "charset": "utf-8"
+        }
+    },
+    "cache_time": 1800
+}

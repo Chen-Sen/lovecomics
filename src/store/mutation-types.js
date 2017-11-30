@@ -1,0 +1,9 @@
+/**
+ * Created by PC on 2017/10/4.
+ */
+export const RECEIVE_LENGTH = 'RECEIVE_LENGTH'
+export const ADD_TRANSITION = 'ADD_TRANSITION'
+export const SET_TRANSLATE = 'SET_TRANSLATE'
+export const REMOVE_TRANSITION = 'REMOVE_TRANSITION'
+export const IMGWIDTH = 'IMGWIDTH'
+export const CREATSHOW = 'CREATSHOW'

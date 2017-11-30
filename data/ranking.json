@@ -1,0 +1,2035 @@
+{
+    "tab_title": "排行",
+    "rankinglist": [
+        {
+            "title": "人气榜",
+            "data": [
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "玄幻"
+                    ],
+                    "comic_id": 25934,
+                    "comic_name": "斗破苍穹",
+                    "author": "天蚕土豆 任翔",
+                    "last_chapter_name": "第678话预告"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "玄幻",
+                        "穿越"
+                    ],
+                    "comic_id": 25933,
+                    "comic_name": "斗罗大陆",
+                    "author": "穆逢春|唐家三少",
+                    "last_chapter_name": "第196话 最强海魂兽"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "竞技"
+                    ],
+                    "comic_id": 7119,
+                    "comic_name": "绝世唐门",
+                    "author": "绝世唐门漫画制作组",
+                    "last_chapter_name": "第119话 橘子"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总"
+                    ],
+                    "comic_id": 26699,
+                    "comic_name": "纯情丫头火辣辣",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第288话"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 86080,
+                    "comic_name": "斗罗大陆3龙王传说",
+                    "author": "穆逢春|唐家三少",
+                    "last_chapter_name": "第37话（2）"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "搞笑",
+                        "恋爱"
+                    ],
+                    "comic_id": 5754,
+                    "comic_name": "穿越西元3000后",
+                    "author": "小小作文",
+                    "last_chapter_name": "第195话 被隐藏的情报"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "漫改"
+                    ],
+                    "comic_id": 5324,
+                    "comic_name": "武动乾坤",
+                    "author": "天蚕土豆|绿光",
+                    "last_chapter_name": "第59话 逃"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 9680,
+                    "comic_name": "风起苍岚",
+                    "author": "松鼠200",
+                    "last_chapter_name": "第94话 悔之晚矣"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔"
+                    ],
+                    "comic_id": 5323,
+                    "comic_name": "神印王座",
+                    "author": "杨浩，唐家三少",
+                    "last_chapter_name": "第125话 血腥女战神的泪水"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "玄幻"
+                    ],
+                    "comic_id": 8687,
+                    "comic_name": "大主宰",
+                    "author": "天蚕土豆|周洪滨",
+                    "last_chapter_name": "番外 时之彼端 梦的回忆"
+                },
+                {
+                    "comic_type": [
+                        "搞笑"
+                    ],
+                    "comic_id": 1368,
+                    "comic_name": "阿衰",
+                    "author": "猫小乐",
+                    "last_chapter_name": "第276话"
+                },
+                {
+                    "comic_type": [
+                        "社会",
+                        "恋爱",
+                        "霸总"
+                    ],
+                    "comic_id": 28327,
+                    "comic_name": "国民老公带回家：偷吻55次",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第129话"
+                },
+                {
+                    "comic_type": [
+                        "冒险",
+                        "恋爱",
+                        "漫改"
+                    ],
+                    "comic_id": 17745,
+                    "comic_name": "凤逆天下",
+                    "author": "桔子茶|蓝白条",
+                    "last_chapter_name": "第85话 洗髓丹药(4)"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 99005,
+                    "comic_name": "霸情恶少：调教小逃妻",
+                    "author": "成都古羌",
+                    "last_chapter_name": "第81话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "漫改"
+                    ],
+                    "comic_id": 8842,
+                    "comic_name": "寻找前世之旅",
+                    "author": "Vlvbear",
+                    "last_chapter_name": "第152话 魔王流迦"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 8524,
+                    "comic_name": "妃夕妍雪",
+                    "author": "食人鱼|飒漫乐画",
+                    "last_chapter_name": "第123话 策划"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "萝莉",
+                        "生活"
+                    ],
+                    "comic_id": 8307,
+                    "comic_name": "蓝翅",
+                    "author": "徐璐 漫友",
+                    "last_chapter_name": "第72话 彩虹6"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "吸血"
+                    ],
+                    "comic_id": 9033,
+                    "comic_name": "血族禁域",
+                    "author": "AKI.7",
+                    "last_chapter_name": "第100话 梦里与你相遇"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 99486,
+                    "comic_name": "帝少别太猛",
+                    "author": "云朵屋动漫",
+                    "last_chapter_name": "第88话"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 8163,
+                    "comic_name": "骑士幻想夜",
+                    "author": "森罗Jusaka  飒漫画",
+                    "last_chapter_name": "第164话 生死相隔"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 85012,
+                    "comic_name": "豪门第一盛婚",
+                    "author": "温小妖",
+                    "last_chapter_name": "第159话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "漫改",
+                        "小说改编"
+                    ],
+                    "comic_id": 26207,
+                    "comic_name": "斗罗大陆2绝世唐门",
+                    "author": "唐家三少",
+                    "last_chapter_name": "第119话 橘子"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 97641,
+                    "comic_name": "豪门天价前妻",
+                    "author": "iCiyuand动漫",
+                    "last_chapter_name": "第115话 她的第一次"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "神魔"
+                    ],
+                    "comic_id": 7643,
+                    "comic_name": "X龙时代",
+                    "author": "云天空 XIII",
+                    "last_chapter_name": "第64话 好久不见哪"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "悬疑"
+                    ],
+                    "comic_id": 7160,
+                    "comic_name": "镇魂街",
+                    "author": "许辰",
+                    "last_chapter_name": "第189话 飞将"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔"
+                    ],
+                    "comic_id": 8458,
+                    "comic_name": "三眼哮天录",
+                    "author": "飒漫画|刘飒",
+                    "last_chapter_name": "第236话 慑魂之物"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 25520,
+                    "comic_name": "砂与海之歌",
+                    "author": "悠世",
+                    "last_chapter_name": "第54话 赌约"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 84067,
+                    "comic_name": "三生三世十里桃花",
+                    "author": "小雨",
+                    "last_chapter_name": "第22话下 两生咒术"
+                },
+                {
+                    "comic_type": [
+                        "冒险"
+                    ],
+                    "comic_id": 5471,
+                    "comic_name": "星海镖师",
+                    "author": "颜开",
+                    "last_chapter_name": "第183话预告"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 12911,
+                    "comic_name": "奇怪的苏夕",
+                    "author": "傅伯涛",
+                    "last_chapter_name": "第71话 游戏时间"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "古风",
+                        "穿越"
+                    ],
+                    "comic_id": 96981,
+                    "comic_name": "神医嫡女",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第58话 拜见云妃"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 102517,
+                    "comic_name": "帝豪老公太狂热",
+                    "author": "Doris",
+                    "last_chapter_name": "第58话 让你，爬上我的床"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 99006,
+                    "comic_name": "极品辣妈好V5",
+                    "author": "有鹿文化",
+                    "last_chapter_name": "第77话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 29979,
+                    "comic_name": "霸道总裁爱上我",
+                    "author": "笑水轩动漫|夏日紫",
+                    "last_chapter_name": "第99话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "漫改",
+                        "小说改编"
+                    ],
+                    "comic_id": 14756,
+                    "comic_name": "斗罗大陆外传神界传说",
+                    "author": "唐家三少",
+                    "last_chapter_name": "番外：毁灭之神的生日"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 10274,
+                    "comic_name": "勇者是女孩",
+                    "author": "鸠也",
+                    "last_chapter_name": "第74话 敌我难分"
+                },
+                {
+                    "comic_type": [
+                        "竞技",
+                        "恋爱",
+                        "萝莉"
+                    ],
+                    "comic_id": 25491,
+                    "comic_name": "星梦偶像计划",
+                    "author": "烟头hstone|白熊",
+                    "last_chapter_name": "第199话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "神魔"
+                    ],
+                    "comic_id": 7095,
+                    "comic_name": "善良的死神/善良的阿呆",
+                    "author": "韩超",
+                    "last_chapter_name": "第68话 哥里斯之愿"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 92888,
+                    "comic_name": "完美世界",
+                    "author": "神漫",
+                    "last_chapter_name": "第54话 净土通缉犯"
+                },
+                {
+                    "comic_type": [
+                        "搞笑",
+                        "萝莉"
+                    ],
+                    "comic_id": 100144,
+                    "comic_name": "皇帝的独生女",
+                    "author": "多蕴文化",
+                    "last_chapter_name": "第175话 有女儿其实也不错"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "竞技"
+                    ],
+                    "comic_id": 12862,
+                    "comic_name": "全职高手",
+                    "author": "蝴蝶蓝|王鹏",
+                    "last_chapter_name": "第153话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "搞笑"
+                    ],
+                    "comic_id": 7290,
+                    "comic_name": "极品家丁",
+                    "author": "禹岩",
+                    "last_chapter_name": "第96话 女魔头来夜袭啦"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "漫改"
+                    ],
+                    "comic_id": 10548,
+                    "comic_name": "赤凰传奇",
+                    "author": "云天空|森·Memes",
+                    "last_chapter_name": "第58话 这么严肃的扉页用这么长的标题会不会太违和"
+                },
+                {
+                    "comic_type": [
+                        "萝莉"
+                    ],
+                    "comic_id": 85273,
+                    "comic_name": "白夜玲珑",
+                    "author": "hehe",
+                    "last_chapter_name": "第66话预告"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 98871,
+                    "comic_name": "豪门小老婆",
+                    "author": "左岸卡漫",
+                    "last_chapter_name": "第87话"
+                },
+                {
+                    "comic_type": [
+                        "搞笑",
+                        "恋爱"
+                    ],
+                    "comic_id": 8421,
+                    "comic_name": "天降贤淑男",
+                    "author": "小怪|飒漫乐画",
+                    "last_chapter_name": "花祭 其三"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "后宫"
+                    ],
+                    "comic_id": 94146,
+                    "comic_name": "王爷你好贱",
+                    "author": "高能漫画",
+                    "last_chapter_name": "第182话"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 7704,
+                    "comic_name": "哑舍",
+                    "author": "玄色",
+                    "last_chapter_name": "第87话 五明扇（一）"
+                },
+                {
+                    "comic_type": [
+                        "冒险"
+                    ],
+                    "comic_id": 25935,
+                    "comic_name": "偷星九月天",
+                    "author": "周洪斌|小松",
+                    "last_chapter_name": "番外2 偷星九月天少年版"
+                },
+                {
+                    "comic_type": [
+                        "冒险"
+                    ],
+                    "comic_id": 25346,
+                    "comic_name": "斗破苍穹之药老传奇",
+                    "author": "依漫",
+                    "last_chapter_name": "第95话 不要见面(2)"
+                }
+            ]
+        },
+        {
+            "title": "收藏榜",
+            "data": [
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "玄幻"
+                    ],
+                    "comic_id": 25934,
+                    "comic_name": "斗破苍穹",
+                    "author": "天蚕土豆 任翔",
+                    "last_chapter_name": "第678话预告"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "玄幻",
+                        "穿越"
+                    ],
+                    "comic_id": 25933,
+                    "comic_name": "斗罗大陆",
+                    "author": "穆逢春|唐家三少",
+                    "last_chapter_name": "第196话 最强海魂兽"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总"
+                    ],
+                    "comic_id": 26699,
+                    "comic_name": "纯情丫头火辣辣",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第288话"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 9680,
+                    "comic_name": "风起苍岚",
+                    "author": "松鼠200",
+                    "last_chapter_name": "第94话 悔之晚矣"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "搞笑",
+                        "恋爱"
+                    ],
+                    "comic_id": 5754,
+                    "comic_name": "穿越西元3000后",
+                    "author": "小小作文",
+                    "last_chapter_name": "第195话 被隐藏的情报"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "玄幻"
+                    ],
+                    "comic_id": 8687,
+                    "comic_name": "大主宰",
+                    "author": "天蚕土豆|周洪滨",
+                    "last_chapter_name": "番外 时之彼端 梦的回忆"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔"
+                    ],
+                    "comic_id": 5323,
+                    "comic_name": "神印王座",
+                    "author": "杨浩，唐家三少",
+                    "last_chapter_name": "第125话 血腥女战神的泪水"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "漫改"
+                    ],
+                    "comic_id": 5324,
+                    "comic_name": "武动乾坤",
+                    "author": "天蚕土豆|绿光",
+                    "last_chapter_name": "第59话 逃"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "漫改",
+                        "小说改编"
+                    ],
+                    "comic_id": 26207,
+                    "comic_name": "斗罗大陆2绝世唐门",
+                    "author": "唐家三少",
+                    "last_chapter_name": "第119话 橘子"
+                },
+                {
+                    "comic_type": [
+                        "冒险",
+                        "恋爱",
+                        "漫改"
+                    ],
+                    "comic_id": 17745,
+                    "comic_name": "凤逆天下",
+                    "author": "桔子茶|蓝白条",
+                    "last_chapter_name": "第85话 洗髓丹药(4)"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 85012,
+                    "comic_name": "豪门第一盛婚",
+                    "author": "温小妖",
+                    "last_chapter_name": "第159话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "漫改"
+                    ],
+                    "comic_id": 8842,
+                    "comic_name": "寻找前世之旅",
+                    "author": "Vlvbear",
+                    "last_chapter_name": "第152话 魔王流迦"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 8524,
+                    "comic_name": "妃夕妍雪",
+                    "author": "食人鱼|飒漫乐画",
+                    "last_chapter_name": "第123话 策划"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 86080,
+                    "comic_name": "斗罗大陆3龙王传说",
+                    "author": "穆逢春|唐家三少",
+                    "last_chapter_name": "第37话（2）"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "竞技"
+                    ],
+                    "comic_id": 7119,
+                    "comic_name": "绝世唐门",
+                    "author": "绝世唐门漫画制作组",
+                    "last_chapter_name": "第119话 橘子"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "神魔"
+                    ],
+                    "comic_id": 7643,
+                    "comic_name": "X龙时代",
+                    "author": "云天空 XIII",
+                    "last_chapter_name": "第64话 好久不见哪"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 99005,
+                    "comic_name": "霸情恶少：调教小逃妻",
+                    "author": "成都古羌",
+                    "last_chapter_name": "第81话"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 8163,
+                    "comic_name": "骑士幻想夜",
+                    "author": "森罗Jusaka  飒漫画",
+                    "last_chapter_name": "第164话 生死相隔"
+                },
+                {
+                    "comic_type": [
+                        "搞笑",
+                        "恋爱"
+                    ],
+                    "comic_id": 8421,
+                    "comic_name": "天降贤淑男",
+                    "author": "小怪|飒漫乐画",
+                    "last_chapter_name": "花祭 其三"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 84067,
+                    "comic_name": "三生三世十里桃花",
+                    "author": "小雨",
+                    "last_chapter_name": "第22话下 两生咒术"
+                },
+                {
+                    "comic_type": [
+                        "搞笑",
+                        "恋爱",
+                        "御姐"
+                    ],
+                    "comic_id": 93919,
+                    "comic_name": "王牌校草",
+                    "author": "成都古羌科技有限公司",
+                    "last_chapter_name": "第126话"
+                },
+                {
+                    "comic_type": [
+                        "社会",
+                        "恋爱",
+                        "霸总"
+                    ],
+                    "comic_id": 28327,
+                    "comic_name": "国民老公带回家：偷吻55次",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第129话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 12911,
+                    "comic_name": "奇怪的苏夕",
+                    "author": "傅伯涛",
+                    "last_chapter_name": "第71话 游戏时间"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "吸血"
+                    ],
+                    "comic_id": 9033,
+                    "comic_name": "血族禁域",
+                    "author": "AKI.7",
+                    "last_chapter_name": "第100话 梦里与你相遇"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 97641,
+                    "comic_name": "豪门天价前妻",
+                    "author": "iCiyuand动漫",
+                    "last_chapter_name": "第115话 她的第一次"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "搞笑"
+                    ],
+                    "comic_id": 7290,
+                    "comic_name": "极品家丁",
+                    "author": "禹岩",
+                    "last_chapter_name": "第96话 女魔头来夜袭啦"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔"
+                    ],
+                    "comic_id": 8458,
+                    "comic_name": "三眼哮天录",
+                    "author": "飒漫画|刘飒",
+                    "last_chapter_name": "第236话 慑魂之物"
+                },
+                {
+                    "comic_type": [
+                        "社会",
+                        "恋爱",
+                        "霸总"
+                    ],
+                    "comic_id": 84776,
+                    "comic_name": "我的黑道男友",
+                    "author": "极光动漫",
+                    "last_chapter_name": "第215话 定制计划"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 99486,
+                    "comic_name": "帝少别太猛",
+                    "author": "云朵屋动漫",
+                    "last_chapter_name": "第88话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 29979,
+                    "comic_name": "霸道总裁爱上我",
+                    "author": "笑水轩动漫|夏日紫",
+                    "last_chapter_name": "第99话"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 25941,
+                    "comic_name": "天行轶事",
+                    "author": "黑一",
+                    "last_chapter_name": "番外5"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 99006,
+                    "comic_name": "极品辣妈好V5",
+                    "author": "有鹿文化",
+                    "last_chapter_name": "第77话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "玄幻",
+                        "漫改"
+                    ],
+                    "comic_id": 8704,
+                    "comic_name": "莽荒纪",
+                    "author": "魅丽漫画馆",
+                    "last_chapter_name": "第45话1"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 7704,
+                    "comic_name": "哑舍",
+                    "author": "玄色",
+                    "last_chapter_name": "第87话 五明扇（一）"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 40534,
+                    "comic_name": "男神在隔壁",
+                    "author": "猫四儿",
+                    "last_chapter_name": "第95话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "漫改",
+                        "小说改编"
+                    ],
+                    "comic_id": 14756,
+                    "comic_name": "斗罗大陆外传神界传说",
+                    "author": "唐家三少",
+                    "last_chapter_name": "番外：毁灭之神的生日"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "神魔"
+                    ],
+                    "comic_id": 7095,
+                    "comic_name": "善良的死神/善良的阿呆",
+                    "author": "韩超",
+                    "last_chapter_name": "第68话 哥里斯之愿"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "萝莉"
+                    ],
+                    "comic_id": 99326,
+                    "comic_name": "一夜孽情：吻别豪门老公",
+                    "author": "左岸卡漫",
+                    "last_chapter_name": "第70话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 98871,
+                    "comic_name": "豪门小老婆",
+                    "author": "左岸卡漫",
+                    "last_chapter_name": "第87话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "萝莉"
+                    ],
+                    "comic_id": 14787,
+                    "comic_name": "倾我一生一世恋",
+                    "author": "大芒果|飒漫乐画",
+                    "last_chapter_name": "第58话 对不起，阿离就是这样的人"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 10868,
+                    "comic_name": "花千骨",
+                    "author": "果果|大歪|尾大地猫猫",
+                    "last_chapter_name": "第114话 在劫难逃3"
+                },
+                {
+                    "comic_type": [
+                        "搞笑"
+                    ],
+                    "comic_id": 1368,
+                    "comic_name": "阿衰",
+                    "author": "猫小乐",
+                    "last_chapter_name": "第276话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 95670,
+                    "comic_name": "微微一笑很倾城",
+                    "author": "元气工厂",
+                    "last_chapter_name": "第50话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "后宫"
+                    ],
+                    "comic_id": 94146,
+                    "comic_name": "王爷你好贱",
+                    "author": "高能漫画",
+                    "last_chapter_name": "第182话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "漫改"
+                    ],
+                    "comic_id": 7099,
+                    "comic_name": "盘龙",
+                    "author": "童亦名",
+                    "last_chapter_name": "第170话 最终话"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 10274,
+                    "comic_name": "勇者是女孩",
+                    "author": "鸠也",
+                    "last_chapter_name": "第74话 敌我难分"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 35809,
+                    "comic_name": "斗罗大陆神界传说",
+                    "author": "唐家三少,DLSIR,神漫",
+                    "last_chapter_name": "番外：毁灭之神的生日"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "古风",
+                        "穿越"
+                    ],
+                    "comic_id": 96981,
+                    "comic_name": "神医嫡女",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第58话 拜见云妃"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "神魔"
+                    ],
+                    "comic_id": 27431,
+                    "comic_name": "妖神记（全彩）",
+                    "author": "踏雪动漫",
+                    "last_chapter_name": "第142话 叶寒的金甲地龙上"
+                },
+                {
+                    "comic_type": [
+                        "社会",
+                        "恋爱"
+                    ],
+                    "comic_id": 95676,
+                    "comic_name": "据说我是王的女儿",
+                    "author": "美蓝漫城作品",
+                    "last_chapter_name": "第171话"
+                }
+            ]
+        },
+        {
+            "title": "连载榜",
+            "data": [
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "玄幻"
+                    ],
+                    "comic_id": 25934,
+                    "comic_name": "斗破苍穹",
+                    "author": "天蚕土豆 任翔",
+                    "last_chapter_name": "第678话预告"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "玄幻",
+                        "穿越"
+                    ],
+                    "comic_id": 25933,
+                    "comic_name": "斗罗大陆",
+                    "author": "穆逢春|唐家三少",
+                    "last_chapter_name": "第196话 最强海魂兽"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "竞技"
+                    ],
+                    "comic_id": 7119,
+                    "comic_name": "绝世唐门",
+                    "author": "绝世唐门漫画制作组",
+                    "last_chapter_name": "第119话 橘子"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总"
+                    ],
+                    "comic_id": 26699,
+                    "comic_name": "纯情丫头火辣辣",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第288话"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 86080,
+                    "comic_name": "斗罗大陆3龙王传说",
+                    "author": "穆逢春|唐家三少",
+                    "last_chapter_name": "第37话（2）"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "搞笑",
+                        "恋爱"
+                    ],
+                    "comic_id": 5754,
+                    "comic_name": "穿越西元3000后",
+                    "author": "小小作文",
+                    "last_chapter_name": "第195话 被隐藏的情报"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "漫改"
+                    ],
+                    "comic_id": 5324,
+                    "comic_name": "武动乾坤",
+                    "author": "天蚕土豆|绿光",
+                    "last_chapter_name": "第59话 逃"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 9680,
+                    "comic_name": "风起苍岚",
+                    "author": "松鼠200",
+                    "last_chapter_name": "第94话 悔之晚矣"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔"
+                    ],
+                    "comic_id": 5323,
+                    "comic_name": "神印王座",
+                    "author": "杨浩，唐家三少",
+                    "last_chapter_name": "第125话 血腥女战神的泪水"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "玄幻"
+                    ],
+                    "comic_id": 8687,
+                    "comic_name": "大主宰",
+                    "author": "天蚕土豆|周洪滨",
+                    "last_chapter_name": "番外 时之彼端 梦的回忆"
+                },
+                {
+                    "comic_type": [
+                        "搞笑"
+                    ],
+                    "comic_id": 1368,
+                    "comic_name": "阿衰",
+                    "author": "猫小乐",
+                    "last_chapter_name": "第276话"
+                },
+                {
+                    "comic_type": [
+                        "社会",
+                        "恋爱",
+                        "霸总"
+                    ],
+                    "comic_id": 28327,
+                    "comic_name": "国民老公带回家：偷吻55次",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第129话"
+                },
+                {
+                    "comic_type": [
+                        "冒险",
+                        "恋爱",
+                        "漫改"
+                    ],
+                    "comic_id": 17745,
+                    "comic_name": "凤逆天下",
+                    "author": "桔子茶|蓝白条",
+                    "last_chapter_name": "第85话 洗髓丹药(4)"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 99005,
+                    "comic_name": "霸情恶少：调教小逃妻",
+                    "author": "成都古羌",
+                    "last_chapter_name": "第81话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "漫改"
+                    ],
+                    "comic_id": 8842,
+                    "comic_name": "寻找前世之旅",
+                    "author": "Vlvbear",
+                    "last_chapter_name": "第152话 魔王流迦"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 8524,
+                    "comic_name": "妃夕妍雪",
+                    "author": "食人鱼|飒漫乐画",
+                    "last_chapter_name": "第123话 策划"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "萝莉",
+                        "生活"
+                    ],
+                    "comic_id": 8307,
+                    "comic_name": "蓝翅",
+                    "author": "徐璐 漫友",
+                    "last_chapter_name": "第72话 彩虹6"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "吸血"
+                    ],
+                    "comic_id": 9033,
+                    "comic_name": "血族禁域",
+                    "author": "AKI.7",
+                    "last_chapter_name": "第100话 梦里与你相遇"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 99486,
+                    "comic_name": "帝少别太猛",
+                    "author": "云朵屋动漫",
+                    "last_chapter_name": "第88话"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 8163,
+                    "comic_name": "骑士幻想夜",
+                    "author": "森罗Jusaka  飒漫画",
+                    "last_chapter_name": "第164话 生死相隔"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 85012,
+                    "comic_name": "豪门第一盛婚",
+                    "author": "温小妖",
+                    "last_chapter_name": "第159话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "漫改",
+                        "小说改编"
+                    ],
+                    "comic_id": 26207,
+                    "comic_name": "斗罗大陆2绝世唐门",
+                    "author": "唐家三少",
+                    "last_chapter_name": "第119话 橘子"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 97641,
+                    "comic_name": "豪门天价前妻",
+                    "author": "iCiyuand动漫",
+                    "last_chapter_name": "第115话 她的第一次"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "神魔"
+                    ],
+                    "comic_id": 7643,
+                    "comic_name": "X龙时代",
+                    "author": "云天空 XIII",
+                    "last_chapter_name": "第64话 好久不见哪"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "悬疑"
+                    ],
+                    "comic_id": 7160,
+                    "comic_name": "镇魂街",
+                    "author": "许辰",
+                    "last_chapter_name": "第189话 飞将"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔"
+                    ],
+                    "comic_id": 8458,
+                    "comic_name": "三眼哮天录",
+                    "author": "飒漫画|刘飒",
+                    "last_chapter_name": "第236话 慑魂之物"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 25520,
+                    "comic_name": "砂与海之歌",
+                    "author": "悠世",
+                    "last_chapter_name": "第54话 赌约"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 84067,
+                    "comic_name": "三生三世十里桃花",
+                    "author": "小雨",
+                    "last_chapter_name": "第22话下 两生咒术"
+                },
+                {
+                    "comic_type": [
+                        "冒险"
+                    ],
+                    "comic_id": 5471,
+                    "comic_name": "星海镖师",
+                    "author": "颜开",
+                    "last_chapter_name": "第183话预告"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 12911,
+                    "comic_name": "奇怪的苏夕",
+                    "author": "傅伯涛",
+                    "last_chapter_name": "第71话 游戏时间"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "古风",
+                        "穿越"
+                    ],
+                    "comic_id": 96981,
+                    "comic_name": "神医嫡女",
+                    "author": "三福动漫",
+                    "last_chapter_name": "第58话 拜见云妃"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 102517,
+                    "comic_name": "帝豪老公太狂热",
+                    "author": "Doris",
+                    "last_chapter_name": "第58话 让你，爬上我的床"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 99006,
+                    "comic_name": "极品辣妈好V5",
+                    "author": "有鹿文化",
+                    "last_chapter_name": "第77话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 29979,
+                    "comic_name": "霸道总裁爱上我",
+                    "author": "笑水轩动漫|夏日紫",
+                    "last_chapter_name": "第99话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "漫改",
+                        "小说改编"
+                    ],
+                    "comic_id": 14756,
+                    "comic_name": "斗罗大陆外传神界传说",
+                    "author": "唐家三少",
+                    "last_chapter_name": "番外：毁灭之神的生日"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 10274,
+                    "comic_name": "勇者是女孩",
+                    "author": "鸠也",
+                    "last_chapter_name": "第74话 敌我难分"
+                },
+                {
+                    "comic_type": [
+                        "竞技",
+                        "恋爱",
+                        "萝莉"
+                    ],
+                    "comic_id": 25491,
+                    "comic_name": "星梦偶像计划",
+                    "author": "烟头hstone|白熊",
+                    "last_chapter_name": "第199话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "神魔"
+                    ],
+                    "comic_id": 7095,
+                    "comic_name": "善良的死神/善良的阿呆",
+                    "author": "韩超",
+                    "last_chapter_name": "第68话 哥里斯之愿"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 92888,
+                    "comic_name": "完美世界",
+                    "author": "神漫",
+                    "last_chapter_name": "第54话 净土通缉犯"
+                },
+                {
+                    "comic_type": [
+                        "搞笑",
+                        "萝莉"
+                    ],
+                    "comic_id": 100144,
+                    "comic_name": "皇帝的独生女",
+                    "author": "多蕴文化",
+                    "last_chapter_name": "第175话 有女儿其实也不错"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "竞技"
+                    ],
+                    "comic_id": 12862,
+                    "comic_name": "全职高手",
+                    "author": "蝴蝶蓝|王鹏",
+                    "last_chapter_name": "第153话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "搞笑"
+                    ],
+                    "comic_id": 7290,
+                    "comic_name": "极品家丁",
+                    "author": "禹岩",
+                    "last_chapter_name": "第96话 女魔头来夜袭啦"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "漫改"
+                    ],
+                    "comic_id": 10548,
+                    "comic_name": "赤凰传奇",
+                    "author": "云天空|森·Memes",
+                    "last_chapter_name": "第58话 这么严肃的扉页用这么长的标题会不会太违和"
+                },
+                {
+                    "comic_type": [
+                        "萝莉"
+                    ],
+                    "comic_id": 85273,
+                    "comic_name": "白夜玲珑",
+                    "author": "hehe",
+                    "last_chapter_name": "第66话预告"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "霸总",
+                        "都市"
+                    ],
+                    "comic_id": 98871,
+                    "comic_name": "豪门小老婆",
+                    "author": "左岸卡漫",
+                    "last_chapter_name": "第87话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "后宫"
+                    ],
+                    "comic_id": 94146,
+                    "comic_name": "王爷你好贱",
+                    "author": "高能漫画",
+                    "last_chapter_name": "第182话"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 7704,
+                    "comic_name": "哑舍",
+                    "author": "玄色",
+                    "last_chapter_name": "第87话 五明扇（一）"
+                },
+                {
+                    "comic_type": [
+                        "冒险"
+                    ],
+                    "comic_id": 25346,
+                    "comic_name": "斗破苍穹之药老传奇",
+                    "author": "依漫",
+                    "last_chapter_name": "第95话 不要见面(2)"
+                },
+                {
+                    "comic_type": [
+                        "搞笑",
+                        "恋爱",
+                        "御姐"
+                    ],
+                    "comic_id": 93919,
+                    "comic_name": "王牌校草",
+                    "author": "成都古羌科技有限公司",
+                    "last_chapter_name": "第126话"
+                },
+                {
+                    "comic_type": [
+                        "社会",
+                        "恋爱"
+                    ],
+                    "comic_id": 95676,
+                    "comic_name": "据说我是王的女儿",
+                    "author": "美蓝漫城作品",
+                    "last_chapter_name": "第171话"
+                }
+            ]
+        },
+        {
+            "title": "完结榜",
+            "data": [
+                {
+                    "comic_type": [
+                        "搞笑",
+                        "恋爱"
+                    ],
+                    "comic_id": 8421,
+                    "comic_name": "天降贤淑男",
+                    "author": "小怪|飒漫乐画",
+                    "last_chapter_name": "花祭 其三"
+                },
+                {
+                    "comic_type": [
+                        "冒险"
+                    ],
+                    "comic_id": 25935,
+                    "comic_name": "偷星九月天",
+                    "author": "周洪斌|小松",
+                    "last_chapter_name": "番外2 偷星九月天少年版"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 40534,
+                    "comic_name": "男神在隔壁",
+                    "author": "猫四儿",
+                    "last_chapter_name": "第95话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔"
+                    ],
+                    "comic_id": 5660,
+                    "comic_name": "加油大魔王",
+                    "author": "咕啾组",
+                    "last_chapter_name": "番外 遥远的梦"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 25941,
+                    "comic_name": "天行轶事",
+                    "author": "黑一",
+                    "last_chapter_name": "番外5"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "漫改"
+                    ],
+                    "comic_id": 7099,
+                    "comic_name": "盘龙",
+                    "author": "童亦名",
+                    "last_chapter_name": "第170话 最终话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "漫改",
+                        "小说改编"
+                    ],
+                    "comic_id": 7015,
+                    "comic_name": "龙族",
+                    "author": "颜开工作室",
+                    "last_chapter_name": "第44话 最终话：新邻居"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 8333,
+                    "comic_name": "星空Club",
+                    "author": "血猫 飒漫乐画",
+                    "last_chapter_name": "第149话 向前"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "战争"
+                    ],
+                    "comic_id": 149,
+                    "comic_name": "封神纪",
+                    "author": "郑健和|邓志辉",
+                    "last_chapter_name": "第38卷 决意"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "御姐",
+                        "都市"
+                    ],
+                    "comic_id": 103542,
+                    "comic_name": "邻居的诱惑",
+                    "author": "多蕴文化",
+                    "last_chapter_name": "最终话"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 82360,
+                    "comic_name": "灼灼琉璃夏",
+                    "author": "云朵屋动漫",
+                    "last_chapter_name": "第143话"
+                },
+                {
+                    "comic_type": [
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 5755,
+                    "comic_name": "美型妖精大混战",
+                    "author": "大歪",
+                    "last_chapter_name": "美型番外"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 25938,
+                    "comic_name": "暴走邻家",
+                    "author": "极乐鸟",
+                    "last_chapter_name": "第165回 希望的传递"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 10132,
+                    "comic_name": "公主驾到",
+                    "author": "招财 中国卡通",
+                    "last_chapter_name": "第36话 尘埃落定大结局"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "搞笑",
+                        "恋爱"
+                    ],
+                    "comic_id": 12897,
+                    "comic_name": "暴走邻家2黄金之心",
+                    "author": "极乐鸟",
+                    "last_chapter_name": "最终话 结束即为开始！"
+                },
+                {
+                    "comic_type": [
+                        "社会",
+                        "恋爱"
+                    ],
+                    "comic_id": 7403,
+                    "comic_name": "薄荷之夏",
+                    "author": "火禾",
+                    "last_chapter_name": "第40话 回到最初的地方"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 25942,
+                    "comic_name": "浪漫传说",
+                    "author": "HeHe",
+                    "last_chapter_name": "番外之四 创世神的不幸日！新郎不是你！"
+                },
+                {
+                    "comic_type": [
+                        "冒险"
+                    ],
+                    "comic_id": 25936,
+                    "comic_name": "神精榜",
+                    "author": "陈翔",
+                    "last_chapter_name": "番外2 白霄外传（下）"
+                },
+                {
+                    "comic_type": [
+                        "搞笑",
+                        "恋爱",
+                        "古风"
+                    ],
+                    "comic_id": 13673,
+                    "comic_name": "公子不要啊",
+                    "author": "动漫堂",
+                    "last_chapter_name": "最终话"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 13043,
+                    "comic_name": "晨星物语",
+                    "author": "乔玉壶",
+                    "last_chapter_name": "第30话 真相（大结局）"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 8238,
+                    "comic_name": "谜之魔盒",
+                    "author": "飒漫画 金鱼",
+                    "last_chapter_name": "第100话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险"
+                    ],
+                    "comic_id": 7293,
+                    "comic_name": "怒良晴空",
+                    "author": "E.X",
+                    "last_chapter_name": "最终话 一辈子的同伴"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔"
+                    ],
+                    "comic_id": 12971,
+                    "comic_name": "威鸣神斗",
+                    "author": "A-SOUL 杨浩",
+                    "last_chapter_name": "最终话 炼"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 7719,
+                    "comic_name": "我的天使",
+                    "author": "翔",
+                    "last_chapter_name": "最终话 幸福的结局"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 20172,
+                    "comic_name": "都市喵奇谭",
+                    "author": "saremi",
+                    "last_chapter_name": "第36话 大结局"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 20655,
+                    "comic_name": "朔月",
+                    "author": "",
+                    "last_chapter_name": "第26话 月之轮回"
+                },
+                {
+                    "comic_type": [
+                        "耽美",
+                        "恋爱",
+                        "后宫"
+                    ],
+                    "comic_id": 12326,
+                    "comic_name": "极道花嫁",
+                    "author": "小蔓三 神画时代作品",
+                    "last_chapter_name": "第29话 最终话：再见"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 986,
+                    "comic_name": "封神纪II",
+                    "author": "郑健和|邓志辉",
+                    "last_chapter_name": "第64卷 传奇"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 25945,
+                    "comic_name": "狂神",
+                    "author": "穆逢春",
+                    "last_chapter_name": "第29话"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 7010,
+                    "comic_name": "封神纪III",
+                    "author": "郑健和 邓志辉",
+                    "last_chapter_name": "第80卷"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 14782,
+                    "comic_name": "绯色异闻录",
+                    "author": "夕度罗",
+                    "last_chapter_name": "第31话 幸福与否"
+                },
+                {
+                    "comic_type": [
+                        "热血"
+                    ],
+                    "comic_id": 20180,
+                    "comic_name": "天之炽",
+                    "author": "江南|小松|孙楠",
+                    "last_chapter_name": "最终话 阿黛尔的净化"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 86055,
+                    "comic_name": "秋落青成",
+                    "author": "顶凌",
+                    "last_chapter_name": "第07话 请原谅我"
+                },
+                {
+                    "comic_type": [
+                        "社会",
+                        "漫改"
+                    ],
+                    "comic_id": 8351,
+                    "comic_name": "考试王",
+                    "author": "飒漫画 双子星罗",
+                    "last_chapter_name": "第83话 我的同学不可能这么可爱"
+                },
+                {
+                    "comic_type": [
+                        "搞笑"
+                    ],
+                    "comic_id": 5967,
+                    "comic_name": "班长大人",
+                    "author": "mk陈岚",
+                    "last_chapter_name": "最终话 永远的班长"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "漫改",
+                        "小说改编"
+                    ],
+                    "comic_id": 10866,
+                    "comic_name": "狂神(漫王版)",
+                    "author": "穆逢春",
+                    "last_chapter_name": "第29话"
+                },
+                {
+                    "comic_type": [
+                        "搞笑"
+                    ],
+                    "comic_id": 22330,
+                    "comic_name": "政宗君的复仇",
+                    "author": "竹冈叶月",
+                    "last_chapter_name": "第39.52话"
+                },
+                {
+                    "comic_type": [
+                        "推理",
+                        "悬疑"
+                    ],
+                    "comic_id": 91706,
+                    "comic_name": "自来水之污",
+                    "author": "潇潇潇潇如",
+                    "last_chapter_name": "84话 记忆U盘五"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "神魔",
+                        "恋爱"
+                    ],
+                    "comic_id": 8395,
+                    "comic_name": "加油大魔王千年之章",
+                    "author": "飒漫画|咕啾组",
+                    "last_chapter_name": "第91话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 11091,
+                    "comic_name": "月蚀",
+                    "author": "卞丽君",
+                    "last_chapter_name": "第29话 命运掌握在自己手中！"
+                },
+                {
+                    "comic_type": [
+                        "耽美"
+                    ],
+                    "comic_id": 20942,
+                    "comic_name": "说谎的你的俘虏",
+                    "author": "水名濑雅良",
+                    "last_chapter_name": "第8话"
+                },
+                {
+                    "comic_type": [
+                        "神魔"
+                    ],
+                    "comic_id": 25940,
+                    "comic_name": "御狐之绊",
+                    "author": "王鹏",
+                    "last_chapter_name": "第58话 最终话：碰撞"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 75089,
+                    "comic_name": "甜蜜野兽",
+                    "author": "桃乃实红",
+                    "last_chapter_name": "全一册"
+                },
+                {
+                    "comic_type": [
+                        "恋爱",
+                        "萝莉"
+                    ],
+                    "comic_id": 19926,
+                    "comic_name": "花之森",
+                    "author": "",
+                    "last_chapter_name": "第33话 你会回来吗？（第一季大结局）"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 92245,
+                    "comic_name": "朝花夕拾",
+                    "author": "壳小杀",
+                    "last_chapter_name": "第1,2,3，话第一次去夜店"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "冒险",
+                        "宠物"
+                    ],
+                    "comic_id": 7098,
+                    "comic_name": "召唤万岁",
+                    "author": "龙丸",
+                    "last_chapter_name": "第19话"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "运动"
+                    ],
+                    "comic_id": 14665,
+                    "comic_name": "烈火青春",
+                    "author": "极乐鸟",
+                    "last_chapter_name": "最终话 五对五(2)"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "吸血"
+                    ],
+                    "comic_id": 8265,
+                    "comic_name": "血族维他命",
+                    "author": "飒漫画 番长",
+                    "last_chapter_name": "第52话"
+                },
+                {
+                    "comic_type": [
+                        "恋爱"
+                    ],
+                    "comic_id": 12550,
+                    "comic_name": "皇家7号美男学院",
+                    "author": "羊咩咩绯小月",
+                    "last_chapter_name": "第60话 第一部完"
+                },
+                {
+                    "comic_type": [
+                        "热血",
+                        "宠物"
+                    ],
+                    "comic_id": 8250,
+                    "comic_name": "猫的诱惑",
+                    "author": "TOCStudio  中国卡通",
+                    "last_chapter_name": "最终话 彼此的再会（大结局）"
+                }
+            ]
+        }
+    ],
+    "servicetime": 1506410873018
+}

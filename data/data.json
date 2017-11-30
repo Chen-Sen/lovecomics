@@ -1,0 +1,1399 @@
+{
+  "nominate": [
+    {
+      "tabtitle": "hot",
+      "name": "热门",
+      "data": [
+        {
+          "comic_id": 25934,
+          "comic_name": "斗破苍穹",
+          "last_chapter_name": "第678话预告"
+        },
+        {
+          "comic_id": 25933,
+          "comic_name": "斗罗大陆",
+          "last_chapter_name": "第196话 最强海魂兽"
+        },
+        {
+          "comic_id": 5754,
+          "comic_name": "穿越西元3000后",
+          "last_chapter_name": "第195话 被隐藏的情报"
+        },
+        {
+          "comic_id": 105150,
+          "comic_name": "霸道忠犬寻爱记",
+          "last_chapter_name": "第12话 给我一首bgm的时间"
+        },
+        {
+          "comic_id": 105151,
+          "comic_name": "纯情总裁宠娇妻",
+          "last_chapter_name": "第13话 监牢"
+        },
+        {
+          "comic_id": 52,
+          "comic_name": "海贼王(航海王)",
+          "last_chapter_name": "876话"
+        },
+        {
+          "comic_id": 7119,
+          "comic_name": "绝世唐门",
+          "last_chapter_name": "第119话 橘子"
+        },
+        {
+          "comic_id": 9680,
+          "comic_name": "风起苍岚",
+          "last_chapter_name": "第94话 悔之晚矣"
+        },
+        {
+          "comic_id": 5324,
+          "comic_name": "武动乾坤",
+          "last_chapter_name": "第59话 逃"
+        },
+        {
+          "comic_id": 53,
+          "comic_name": "火影忍者",
+          "last_chapter_name": "第711话"
+        },
+        {
+          "comic_id": 60,
+          "comic_name": "七龙珠",
+          "last_chapter_name": "最终话"
+        },
+        {
+          "comic_id": 5323,
+          "comic_name": "神印王座",
+          "last_chapter_name": "第125话 血腥女战神的泪水"
+        },
+        {
+          "comic_id": 17745,
+          "comic_name": "凤逆天下",
+          "last_chapter_name": "第85话 洗髓丹药(4)"
+        },
+        {
+          "comic_id": 56,
+          "comic_name": "死神/境·界",
+          "last_chapter_name": "第686话 完结"
+        },
+        {
+          "comic_id": 85273,
+          "comic_name": "白夜玲珑",
+          "last_chapter_name": "第66话预告"
+        },
+        {
+          "comic_id": 7704,
+          "comic_name": "哑舍",
+          "last_chapter_name": "第87话 五明扇（一）"
+        },
+        {
+          "comic_id": 1206,
+          "comic_name": "新网球王子",
+          "last_chapter_name": "第223话"
+        },
+        {
+          "comic_id": 7638,
+          "comic_name": "龙族3黑月之潮",
+          "last_chapter_name": "第52话 神道"
+        },
+        {
+          "comic_id": 10274,
+          "comic_name": "勇者是女孩",
+          "last_chapter_name": "第74话 敌我难分"
+        },
+        {
+          "comic_id": 71,
+          "comic_name": "银魂",
+          "last_chapter_name": "第648话"
+        },
+        {
+          "comic_id": 1368,
+          "comic_name": "阿衰",
+          "last_chapter_name": "第276话"
+        },
+        {
+          "comic_id": 3487,
+          "comic_name": "偷星九月天",
+          "last_chapter_name": "番外2 偷星九月天少年版"
+        },
+        {
+          "comic_id": 8524,
+          "comic_name": "妃夕妍雪",
+          "last_chapter_name": "第123话 策划"
+        },
+        {
+          "comic_id": 8842,
+          "comic_name": "寻找前世之旅",
+          "last_chapter_name": "第152话 魔王流迦"
+        },
+        {
+          "comic_id": 9033,
+          "comic_name": "血族禁域",
+          "last_chapter_name": "第100话 梦里与你相遇"
+        },
+        {
+          "comic_id": 7643,
+          "comic_name": "X龙时代",
+          "last_chapter_name": "第64话 好久不见哪"
+        },
+        {
+          "comic_id": 10868,
+          "comic_name": "花千骨",
+          "last_chapter_name": "第114话 在劫难逃3"
+        },
+        {
+          "comic_id": 8458,
+          "comic_name": "三眼哮天录",
+          "last_chapter_name": "第236话 慑魂之物"
+        },
+        {
+          "comic_id": 86080,
+          "comic_name": "斗罗大陆3龙王传说",
+          "last_chapter_name": "第37话（2）"
+        },
+        {
+          "comic_id": 9486,
+          "comic_name": "见习魔法师",
+          "last_chapter_name": "第76话 疑窦丛生"
+        },
+        {
+          "comic_id": 54,
+          "comic_name": "家庭教师",
+          "last_chapter_name": "第409话 最终话"
+        },
+        {
+          "comic_id": 9332,
+          "comic_name": "彼之千年",
+          "last_chapter_name": "第52话 天晴遇险"
+        },
+        {
+          "comic_id": 5660,
+          "comic_name": "加油大魔王",
+          "last_chapter_name": "番外 遥远的梦"
+        },
+        {
+          "comic_id": 85791,
+          "comic_name": "班长大人II极限教室",
+          "last_chapter_name": "最终话 难忘的旅行"
+        },
+        {
+          "comic_id": 5471,
+          "comic_name": "星海镖师",
+          "last_chapter_name": "第183话预告"
+        },
+        {
+          "comic_id": 7722,
+          "comic_name": "精灵录/恶魔党",
+          "last_chapter_name": "第69话 海拉的视角"
+        },
+        {
+          "comic_id": 82625,
+          "comic_name": "万里晴川",
+          "last_chapter_name": "第27话 圣女降临"
+        },
+        {
+          "comic_id": 8163,
+          "comic_name": "骑士幻想夜",
+          "last_chapter_name": "第164话 生死相隔"
+        },
+        {
+          "comic_id": 87114,
+          "comic_name": "虚之结社",
+          "last_chapter_name": "第30话预告"
+        },
+        {
+          "comic_id": 7674,
+          "comic_name": "遮天",
+          "last_chapter_name": "第64话 应邀而行"
+        },
+        {
+          "comic_id": 26252,
+          "comic_name": "拜托了！田老爷",
+          "last_chapter_name": "第28话 学生的末日自救"
+        },
+        {
+          "comic_id": 97337,
+          "comic_name": "神武将星录",
+          "last_chapter_name": "第48话 回府"
+        },
+        {
+          "comic_id": 95121,
+          "comic_name": "逆转木兰辞",
+          "last_chapter_name": "第16话 陷阱"
+        },
+        {
+          "comic_id": 91961,
+          "comic_name": "网游之近战法师",
+          "last_chapter_name": "第37话 狼人与金矿"
+        },
+        {
+          "comic_id": 14038,
+          "comic_name": "东旅劫谈",
+          "last_chapter_name": "第44话预告"
+        },
+        {
+          "comic_id": 15469,
+          "comic_name": "王者名昭",
+          "last_chapter_name": "第75话 对决结果！"
+        },
+        {
+          "comic_id": 94732,
+          "comic_name": "星辰航路",
+          "last_chapter_name": "第26话 终点"
+        },
+        {
+          "comic_id": 82424,
+          "comic_name": "不要向我弟弟许愿",
+          "last_chapter_name": "第15话 自认为拥有的朋友"
+        },
+        {
+          "comic_id": 5658,
+          "comic_name": "九九八十一",
+          "last_chapter_name": "第114话预告"
+        },
+        {
+          "comic_id": 92888,
+          "comic_name": "完美世界",
+          "last_chapter_name": "第54话 净土通缉犯"
+        },
+        {
+          "comic_id": 25520,
+          "comic_name": "砂与海之歌",
+          "last_chapter_name": "第54话 赌约"
+        },
+        {
+          "comic_id": 7290,
+          "comic_name": "极品家丁",
+          "last_chapter_name": "第96话 女魔头来夜袭啦"
+        },
+        {
+          "comic_id": 26207,
+          "comic_name": "斗罗大陆2绝世唐门",
+          "last_chapter_name": "第119话 橘子"
+        }
+      ],
+      "slide": [
+        {
+          "comic_id": 105151,
+          "image": "http://image.samanlehua.com/news/27/401227.jpg",
+          "slide_desc": "二次元霸少狂宠穿越女"
+        },
+        {
+          "comic_id": 105150,
+          "image": "http://image.samanlehua.com/news/71/377771.jpg",
+          "slide_desc": "小小萌神的捕心计划~"
+        },
+        {
+          "comic_id": 10274,
+          "image": "http://image.samanlehua.com/news/39/351139.jpg",
+          "slide_desc": "变男变女？KISS说了算"
+        },
+        {
+          "comic_id": 14750,
+          "image": "http://image.samanlehua.com/news/33/350833.jpg",
+          "slide_desc": "十年后，云歌带着儿时的诺言来到长安..."
+        },
+        {
+          "comic_id": 92888,
+          "image": "http://image.samanlehua.com/news/30/350830.jpg",
+          "slide_desc": "一粒尘可填海，一根草斩尽日月星辰"
+        },
+        {
+          "comic_id": 25941,
+          "image": "http://image.samanlehua.com/news/88/327688.jpg",
+          "slide_desc": "人类寻找天行者的旅程"
+        }
+      ]
+    },
+    {
+      "tabtitle": "CHNCartoon",
+      "name": "国漫",
+      "data": [
+        {
+          "comic_id": 8500,
+          "comic_name": "狐妖小红娘",
+          "last_chapter_name": "番外"
+        },
+        {
+          "comic_id": 94560,
+          "comic_name": "星武神诀",
+          "last_chapter_name": "第89话"
+        },
+        {
+          "comic_id": 25934,
+          "comic_name": "斗破苍穹",
+          "last_chapter_name": "第678话预告"
+        },
+        {
+          "comic_id": 10131,
+          "comic_name": "月影马戏团",
+          "last_chapter_name": "第48话 再见大结局"
+        },
+        {
+          "comic_id": 25933,
+          "comic_name": "斗罗大陆",
+          "last_chapter_name": "第196话 最强海魂兽"
+        },
+        {
+          "comic_id": 100144,
+          "comic_name": "皇帝的独生女",
+          "last_chapter_name": "第175话 有女儿其实也不错"
+        },
+        {
+          "comic_id": 7119,
+          "comic_name": "绝世唐门",
+          "last_chapter_name": "第119话 橘子"
+        },
+        {
+          "comic_id": 5323,
+          "comic_name": "神印王座",
+          "last_chapter_name": "第125话 血腥女战神的泪水"
+        },
+        {
+          "comic_id": 9680,
+          "comic_name": "风起苍岚",
+          "last_chapter_name": "第94话 悔之晚矣"
+        },
+        {
+          "comic_id": 5754,
+          "comic_name": "穿越西元3000后",
+          "last_chapter_name": "第195话 被隐藏的情报"
+        },
+        {
+          "comic_id": 95676,
+          "comic_name": "据说我是王的女儿",
+          "last_chapter_name": "第171话"
+        },
+        {
+          "comic_id": 8687,
+          "comic_name": "大主宰",
+          "last_chapter_name": "番外 时之彼端 梦的回忆"
+        },
+        {
+          "comic_id": 17745,
+          "comic_name": "凤逆天下",
+          "last_chapter_name": "第85话 洗髓丹药(4)"
+        },
+        {
+          "comic_id": 5324,
+          "comic_name": "武动乾坤",
+          "last_chapter_name": "第59话 逃"
+        },
+        {
+          "comic_id": 1368,
+          "comic_name": "阿衰",
+          "last_chapter_name": "第276话"
+        },
+        {
+          "comic_id": 10274,
+          "comic_name": "勇者是女孩",
+          "last_chapter_name": "第74话 敌我难分"
+        },
+        {
+          "comic_id": 94165,
+          "comic_name": "雪鹰领主",
+          "last_chapter_name": "第30话预告"
+        },
+        {
+          "comic_id": 8238,
+          "comic_name": "谜之魔盒",
+          "last_chapter_name": "第100话"
+        },
+        {
+          "comic_id": 7719,
+          "comic_name": "我的天使",
+          "last_chapter_name": "最终话 幸福的结局"
+        },
+        {
+          "comic_id": 9332,
+          "comic_name": "彼之千年",
+          "last_chapter_name": "第52话 天晴遇险"
+        },
+        {
+          "comic_id": 8307,
+          "comic_name": "蓝翅",
+          "last_chapter_name": "第72话 彩虹6"
+        },
+        {
+          "comic_id": 5961,
+          "comic_name": "极度分裂",
+          "last_chapter_name": "第80话 幻灭"
+        },
+        {
+          "comic_id": 8524,
+          "comic_name": "妃夕妍雪",
+          "last_chapter_name": "第123话 策划"
+        },
+        {
+          "comic_id": 16336,
+          "comic_name": "饕餮记",
+          "last_chapter_name": "第32话 双生菇（2）"
+        },
+        {
+          "comic_id": 7160,
+          "comic_name": "镇魂街",
+          "last_chapter_name": "第189话 飞将"
+        },
+        {
+          "comic_id": 95121,
+          "comic_name": "逆转木兰辞",
+          "last_chapter_name": "第16话 陷阱"
+        },
+        {
+          "comic_id": 99005,
+          "comic_name": "霸情恶少：调教小逃妻",
+          "last_chapter_name": "第81话"
+        },
+        {
+          "comic_id": 20655,
+          "comic_name": "朔月",
+          "last_chapter_name": "第26话 月之轮回"
+        },
+        {
+          "comic_id": 91961,
+          "comic_name": "网游之近战法师",
+          "last_chapter_name": "第37话 狼人与金矿"
+        },
+        {
+          "comic_id": 85012,
+          "comic_name": "豪门第一盛婚",
+          "last_chapter_name": "第159话"
+        },
+        {
+          "comic_id": 97337,
+          "comic_name": "神武将星录",
+          "last_chapter_name": "第48话 回府"
+        },
+        {
+          "comic_id": 28327,
+          "comic_name": "国民老公带回家：偷吻55次",
+          "last_chapter_name": "第129话"
+        },
+        {
+          "comic_id": 99486,
+          "comic_name": "帝少别太猛",
+          "last_chapter_name": "第88话"
+        },
+        {
+          "comic_id": 98871,
+          "comic_name": "豪门小老婆",
+          "last_chapter_name": "第87话"
+        },
+        {
+          "comic_id": 7403,
+          "comic_name": "薄荷之夏",
+          "last_chapter_name": "第40话 回到最初的地方"
+        },
+        {
+          "comic_id": 14787,
+          "comic_name": "倾我一生一世恋",
+          "last_chapter_name": "第58话 对不起，阿离就是这样的人"
+        },
+        {
+          "comic_id": 102517,
+          "comic_name": "帝豪老公太狂热",
+          "last_chapter_name": "第58话 让你，爬上我的床"
+        },
+        {
+          "comic_id": 94316,
+          "comic_name": "璇玑辞",
+          "last_chapter_name": "第15话4 营救"
+        },
+        {
+          "comic_id": 7095,
+          "comic_name": "善良的死神/善良的阿呆",
+          "last_chapter_name": "第68话 哥里斯之愿"
+        },
+        {
+          "comic_id": 8842,
+          "comic_name": "寻找前世之旅",
+          "last_chapter_name": "第152话 魔王流迦"
+        },
+        {
+          "comic_id": 8421,
+          "comic_name": "天降贤淑男",
+          "last_chapter_name": "花祭 其三"
+        },
+        {
+          "comic_id": 29979,
+          "comic_name": "霸道总裁爱上我",
+          "last_chapter_name": "第99话"
+        },
+        {
+          "comic_id": 7015,
+          "comic_name": "龙族",
+          "last_chapter_name": "第44话 最终话：新邻居"
+        },
+        {
+          "comic_id": 25491,
+          "comic_name": "星梦偶像计划",
+          "last_chapter_name": "第199话"
+        },
+        {
+          "comic_id": 7290,
+          "comic_name": "极品家丁",
+          "last_chapter_name": "第96话 女魔头来夜袭啦"
+        },
+        {
+          "comic_id": 85273,
+          "comic_name": "白夜玲珑",
+          "last_chapter_name": "第66话预告"
+        },
+        {
+          "comic_id": 99006,
+          "comic_name": "极品辣妈好V5",
+          "last_chapter_name": "第77话"
+        },
+        {
+          "comic_id": 12862,
+          "comic_name": "全职高手",
+          "last_chapter_name": "第153话"
+        },
+        {
+          "comic_id": 25520,
+          "comic_name": "砂与海之歌",
+          "last_chapter_name": "第54话 赌约"
+        },
+        {
+          "comic_id": 14750,
+          "comic_name": "云中歌",
+          "last_chapter_name": "第48话 醒后楼台，与梦俱灭"
+        },
+        {
+          "comic_id": 96981,
+          "comic_name": "神医嫡女",
+          "last_chapter_name": "第58话 拜见云妃"
+        },
+        {
+          "comic_id": 5752,
+          "comic_name": "天行轶事",
+          "last_chapter_name": "番外5"
+        },
+        {
+          "comic_id": 84067,
+          "comic_name": "三生三世十里桃花",
+          "last_chapter_name": "第22话下 两生咒术"
+        },
+        {
+          "comic_id": 25346,
+          "comic_name": "斗破苍穹之药老传奇",
+          "last_chapter_name": "第95话 不要见面(2)"
+        },
+        {
+          "comic_id": 9915,
+          "comic_name": "凤临天下王妃十三岁",
+          "last_chapter_name": "第4季10话下"
+        },
+        {
+          "comic_id": 91793,
+          "comic_name": "通灵妃",
+          "last_chapter_name": "第91话 治服王爷"
+        },
+        {
+          "comic_id": 8704,
+          "comic_name": "莽荒纪",
+          "last_chapter_name": "第45话1"
+        },
+        {
+          "comic_id": 9757,
+          "comic_name": "完美世界（漫友）",
+          "last_chapter_name": "第54话 净土通缉犯"
+        },
+        {
+          "comic_id": 93919,
+          "comic_name": "王牌校草",
+          "last_chapter_name": "第126话"
+        },
+        {
+          "comic_id": 95670,
+          "comic_name": "微微一笑很倾城",
+          "last_chapter_name": "第50话"
+        },
+        {
+          "comic_id": 12911,
+          "comic_name": "奇怪的苏夕",
+          "last_chapter_name": "第71话 游戏时间"
+        },
+        {
+          "comic_id": 25939,
+          "comic_name": "九九八十一",
+          "last_chapter_name": "第114话预告"
+        },
+        {
+          "comic_id": 25942,
+          "comic_name": "浪漫传说",
+          "last_chapter_name": "番外之四 创世神的不幸日！新郎不是你！"
+        },
+        {
+          "comic_id": 7704,
+          "comic_name": "哑舍",
+          "last_chapter_name": "第87话 五明扇（一）"
+        },
+        {
+          "comic_id": 25938,
+          "comic_name": "暴走邻家",
+          "last_chapter_name": "第165回 希望的传递"
+        },
+        {
+          "comic_id": 5471,
+          "comic_name": "星海镖师",
+          "last_chapter_name": "第183话预告"
+        },
+        {
+          "comic_id": 7015,
+          "comic_name": "龙族",
+          "last_chapter_name": "第44话 最终话：新邻居"
+        },
+        {
+          "comic_id": 7014,
+          "comic_name": "龙族2悼亡者之瞳",
+          "last_chapter_name": "第60话 最终话：每个人心里都有个死小孩"
+        },
+        {
+          "comic_id": 25935,
+          "comic_name": "偷星九月天",
+          "last_chapter_name": "番外2 偷星九月天少年版"
+        }
+      ],
+      "slide": [
+        {
+          "comic_id": 94165,
+          "image": "http://image.samanlehua.com/news/56/351756.jpg",
+          "slide_desc": "早熟领主是这么炼成的"
+        },
+        {
+          "comic_id": 8211,
+          "image": "http://image.samanlehua.com/news/55/351755.jpg",
+          "slide_desc": "这个故事不需要描述了吧？"
+        },
+        {
+          "comic_id": 17745,
+          "image": "http://image.samanlehua.com/news/54/351754.jpg",
+          "slide_desc": "天才杀手转世成废物"
+        },
+        {
+          "comic_id": 5324,
+          "image": "http://image.samanlehua.com/news/35/350835.jpg",
+          "slide_desc": "落魄弟子的逆袭之旅"
+        },
+        {
+          "comic_id": 7119,
+          "image": "http://image.samanlehua.com/news/34/350834.jpg",
+          "slide_desc": "斗罗大陆新生代七怪"
+        }
+      ]
+    },
+    {
+      "tabtitle": "JPCartoon",
+      "name": "日漫",
+      "data": [
+        {
+          "comic_id": 12715,
+          "comic_name": "恋爱禁止的世界",
+          "last_chapter_name": "第128话"
+        },
+        {
+          "comic_id": 186,
+          "comic_name": "斩赤红之瞳",
+          "last_chapter_name": "第78话最终话"
+        },
+        {
+          "comic_id": 13501,
+          "comic_name": "Overlord",
+          "last_chapter_name": "第27话"
+        },
+        {
+          "comic_id": 52,
+          "comic_name": "海贼王(航海王)",
+          "last_chapter_name": "876话"
+        },
+        {
+          "comic_id": 53,
+          "comic_name": "火影忍者",
+          "last_chapter_name": "第711话"
+        },
+        {
+          "comic_id": 71,
+          "comic_name": "银魂",
+          "last_chapter_name": "第648话"
+        },
+        {
+          "comic_id": 14016,
+          "comic_name": "黑执事/黑管家",
+          "last_chapter_name": "DVD特典漫画"
+        },
+        {
+          "comic_id": 103584,
+          "comic_name": "青之驱魔师",
+          "last_chapter_name": "93话"
+        },
+        {
+          "comic_id": 13516,
+          "comic_name": "叛逆的鲁鲁修/反叛的鲁路修",
+          "last_chapter_name": "第08卷"
+        },
+        {
+          "comic_id": 3296,
+          "comic_name": "未闻花名",
+          "last_chapter_name": "第13话"
+        },
+        {
+          "comic_id": 13532,
+          "comic_name": "驱魔少年",
+          "last_chapter_name": "第223话"
+        },
+        {
+          "comic_id": 56,
+          "comic_name": "死神/境·界",
+          "last_chapter_name": "第686话 完结"
+        },
+        {
+          "comic_id": 1764,
+          "comic_name": "名侦探柯南",
+          "last_chapter_name": "第1001话"
+        },
+        {
+          "comic_id": 411,
+          "comic_name": "犬夜叉",
+          "last_chapter_name": "第56卷"
+        },
+        {
+          "comic_id": 1744,
+          "comic_name": "棒球英豪",
+          "last_chapter_name": "第26卷"
+        },
+        {
+          "comic_id": 452,
+          "comic_name": "通灵王",
+          "last_chapter_name": "第300话"
+        },
+        {
+          "comic_id": 61,
+          "comic_name": "灌篮高手",
+          "last_chapter_name": "第31卷"
+        },
+        {
+          "comic_id": 59,
+          "comic_name": "网球王子",
+          "last_chapter_name": "379话"
+        },
+        {
+          "comic_id": 477,
+          "comic_name": "游戏王",
+          "last_chapter_name": "343话"
+        },
+        {
+          "comic_id": 60,
+          "comic_name": "七龙珠",
+          "last_chapter_name": "最终话"
+        },
+        {
+          "comic_id": 687,
+          "comic_name": "圣斗士星矢",
+          "last_chapter_name": "110话最终话"
+        },
+        {
+          "comic_id": 27,
+          "comic_name": "阿拉蕾",
+          "last_chapter_name": "236话最终话"
+        },
+        {
+          "comic_id": 44061,
+          "comic_name": "爆漫王",
+          "last_chapter_name": "176话最终话"
+        },
+        {
+          "comic_id": 13501,
+          "comic_name": "Overlord",
+          "last_chapter_name": "第27话"
+        },
+        {
+          "comic_id": 24315,
+          "comic_name": "噬神者2",
+          "last_chapter_name": "第03话"
+        },
+        {
+          "comic_id": 65,
+          "comic_name": "黑子的篮球",
+          "last_chapter_name": "最终话"
+        },
+        {
+          "comic_id": 3668,
+          "comic_name": "学园孤岛",
+          "last_chapter_name": "第57话"
+        },
+        {
+          "comic_id": 27881,
+          "comic_name": "境界触发者",
+          "last_chapter_name": "第164话"
+        },
+        {
+          "comic_id": 1206,
+          "comic_name": "新网球王子",
+          "last_chapter_name": "第223话"
+        },
+        {
+          "comic_id": 3171,
+          "comic_name": "排球少年",
+          "last_chapter_name": "第268话"
+        },
+        {
+          "comic_id": 3549,
+          "comic_name": "食戟之灵",
+          "last_chapter_name": "第229话"
+        },
+        {
+          "comic_id": 75089,
+          "comic_name": "甜蜜野兽",
+          "last_chapter_name": "全一册"
+        },
+        {
+          "comic_id": 22330,
+          "comic_name": "政宗君的复仇",
+          "last_chapter_name": "第39.52话"
+        },
+        {
+          "comic_id": 20942,
+          "comic_name": "说谎的你的俘虏",
+          "last_chapter_name": "第8话"
+        },
+        {
+          "comic_id": 3708,
+          "comic_name": "源君物语",
+          "last_chapter_name": "232话过去的事"
+        },
+        {
+          "comic_id": 24904,
+          "comic_name": "修女与吸血鬼",
+          "last_chapter_name": "12话"
+        },
+        {
+          "comic_id": 26153,
+          "comic_name": "哥哥太爱我了怎么办",
+          "last_chapter_name": "18话"
+        },
+        {
+          "comic_id": 2525,
+          "comic_name": "魔笛",
+          "last_chapter_name": "第366话"
+        },
+        {
+          "comic_id": 1957,
+          "comic_name": "绯弹的亚里亚",
+          "last_chapter_name": "第85话"
+        },
+        {
+          "comic_id": 17946,
+          "comic_name": "在地牢里寻求邂逅难道有错吗/期待在地下城邂逅有错吗",
+          "last_chapter_name": "57话"
+        },
+        {
+          "comic_id": 94322,
+          "comic_name": "传说中勇者的结婚活动",
+          "last_chapter_name": "第13话"
+        },
+        {
+          "comic_id": 25576,
+          "comic_name": "World Trigger（境界触发者）",
+          "last_chapter_name": "第106话"
+        },
+        {
+          "comic_id": 13501,
+          "comic_name": "Overlord",
+          "last_chapter_name": "第27话"
+        },
+        {
+          "comic_id": 2462,
+          "comic_name": "绝对恋爱命令",
+          "last_chapter_name": "第74话"
+        },
+        {
+          "comic_id": 17946,
+          "comic_name": "在地牢里寻求邂逅难道有错吗/期待在地下城邂逅有错吗",
+          "last_chapter_name": "57话"
+        },
+        {
+          "comic_id": 2341,
+          "comic_name": "散华礼弥",
+          "last_chapter_name": "第56话"
+        },
+        {
+          "comic_id": 448,
+          "comic_name": "虫奉行",
+          "last_chapter_name": "302话"
+        },
+        {
+          "comic_id": 2771,
+          "comic_name": "无限住人",
+          "last_chapter_name": "第219话完"
+        },
+        {
+          "comic_id": 5083,
+          "comic_name": "元气少女缘结神",
+          "last_chapter_name": "第149话"
+        },
+        {
+          "comic_id": 967,
+          "comic_name": "PLUTO",
+          "last_chapter_name": "65话"
+        },
+        {
+          "comic_id": 51,
+          "comic_name": "Fate stay night",
+          "last_chapter_name": "第65话"
+        },
+        {
+          "comic_id": 91835,
+          "comic_name": "新撰组镇魂歌",
+          "last_chapter_name": "第27话"
+        },
+        {
+          "comic_id": 57,
+          "comic_name": "妖精的尾巴",
+          "last_chapter_name": "第545话"
+        },
+        {
+          "comic_id": 95116,
+          "comic_name": "你的名字",
+          "last_chapter_name": "P站日后谈"
+        },
+        {
+          "comic_id": 7649,
+          "comic_name": "一拳超人",
+          "last_chapter_name": "第121话"
+        }
+      ],
+      "slide": [
+        {
+          "comic_id": 95116,
+          "image": "http://image.samanlehua.com/news/21/329121.jpg",
+          "slide_desc": "寻找从未见过的你！"
+        },
+        {
+          "comic_id": 22330,
+          "image": "http://image.samanlehua.com/news/20/329120.jpg",
+          "slide_desc": "脱胎换骨，向那恶女所居住的城市报仇！"
+        }
+      ]
+    },
+    {
+      "tabtitle": "HKandTwan",
+      "name": "港台",
+      "data": [
+        {
+          "comic_id": 99456,
+          "comic_name": "山海逆战",
+          "last_chapter_name": "第39话 惊爆海角崖（下）"
+        },
+        {
+          "comic_id": 7953,
+          "comic_name": "古惑仔",
+          "last_chapter_name": "2006话六大杀手"
+        },
+        {
+          "comic_id": 86530,
+          "comic_name": "阴阳宅急便",
+          "last_chapter_name": "63话刺杀之谜"
+        },
+        {
+          "comic_id": 101876,
+          "comic_name": "武庚纪",
+          "last_chapter_name": "第47话"
+        },
+        {
+          "comic_id": 84367,
+          "comic_name": "Bloody Girl",
+          "last_chapter_name": "77话"
+        },
+        {
+          "comic_id": 751,
+          "comic_name": "鹿鼎记",
+          "last_chapter_name": "第26回"
+        },
+        {
+          "comic_id": 1130,
+          "comic_name": "佣兵天下",
+          "last_chapter_name": "34话"
+        },
+        {
+          "comic_id": 753,
+          "comic_name": "笑傲江湖",
+          "last_chapter_name": "第26卷"
+        },
+        {
+          "comic_id": 84350,
+          "comic_name": "再造空间",
+          "last_chapter_name": "67话黑白使者"
+        },
+        {
+          "comic_id": 64,
+          "comic_name": "风云第三部",
+          "last_chapter_name": "风云 第672回"
+        },
+        {
+          "comic_id": 63,
+          "comic_name": "风云第二部",
+          "last_chapter_name": "第252回最终回"
+        },
+        {
+          "comic_id": 62,
+          "comic_name": "风云第一部",
+          "last_chapter_name": "风云 第114回"
+        },
+        {
+          "comic_id": 710,
+          "comic_name": "神兵玄奇Ⅱ",
+          "last_chapter_name": "第146卷"
+        },
+        {
+          "comic_id": 92974,
+          "comic_name": "西行纪",
+          "last_chapter_name": "第116话"
+        },
+        {
+          "comic_id": 3162,
+          "comic_name": "拳皇98彩色完全版",
+          "last_chapter_name": "第44卷"
+        },
+        {
+          "comic_id": 1587,
+          "comic_name": "老夫子",
+          "last_chapter_name": "第28卷"
+        },
+        {
+          "comic_id": 2033,
+          "comic_name": "王者天下",
+          "last_chapter_name": "520话"
+        },
+        {
+          "comic_id": 668,
+          "comic_name": "武神",
+          "last_chapter_name": "第300卷"
+        },
+        {
+          "comic_id": 469,
+          "comic_name": "寻秦记",
+          "last_chapter_name": "第90卷"
+        },
+        {
+          "comic_id": 775,
+          "comic_name": "杀道行者",
+          "last_chapter_name": "最终卷 夢的守護者"
+        },
+        {
+          "comic_id": 3161,
+          "comic_name": "拳皇97彩色完全版",
+          "last_chapter_name": "第17卷"
+        },
+        {
+          "comic_id": 49,
+          "comic_name": "大圣王",
+          "last_chapter_name": "第157卷"
+        },
+        {
+          "comic_id": 26698,
+          "comic_name": "隔离带 2",
+          "last_chapter_name": "第100话"
+        },
+        {
+          "comic_id": 1621,
+          "comic_name": "火王(新版)",
+          "last_chapter_name": "第14卷"
+        },
+        {
+          "comic_id": 2874,
+          "comic_name": "碧月帆雪",
+          "last_chapter_name": "第159-160话"
+        },
+        {
+          "comic_id": 340,
+          "comic_name": "火凤燎原",
+          "last_chapter_name": "482话"
+        },
+        {
+          "comic_id": 50,
+          "comic_name": "大唐双龙传",
+          "last_chapter_name": "第252卷"
+        },
+        {
+          "comic_id": 964,
+          "comic_name": "幻城",
+          "last_chapter_name": "第25话"
+        },
+        {
+          "comic_id": 632,
+          "comic_name": "新著龙虎门",
+          "last_chapter_name": "890卷"
+        },
+        {
+          "comic_id": 712,
+          "comic_name": "神兵玄奇 I",
+          "last_chapter_name": "第146卷"
+        },
+        {
+          "comic_id": 26018,
+          "comic_name": "西游",
+          "last_chapter_name": "76话天宫之变"
+        },
+        {
+          "comic_id": 149,
+          "comic_name": "封神纪",
+          "last_chapter_name": "第38卷 决意"
+        },
+        {
+          "comic_id": 1203,
+          "comic_name": "温瑞安群侠传",
+          "last_chapter_name": "第93回"
+        },
+        {
+          "comic_id": 755,
+          "comic_name": "四大名捕",
+          "last_chapter_name": "第371卷"
+        }
+      ],
+      "slide": [
+        {
+          "comic_id": 632,
+          "image": "http://image.samanlehua.com/news/94/327694.jpg",
+          "slide_desc": "冲出香港，远征日本，只为正义而战！"
+        },
+        {
+          "comic_id": 149,
+          "image": "http://image.samanlehua.com/news/93/327693.jpg",
+          "slide_desc": "神与人的世纪大战，谁将是最后的赢家！"
+        },
+        {
+          "comic_id": 26018,
+          "image": "http://image.samanlehua.com/news/92/327692.jpg",
+          "slide_desc": "不一样的西游！"
+        }
+      ]
+    },
+    {
+      "tabtitle": "tolove",
+      "name": "新番",
+      "data": [
+        {
+          "comic_id": 7758,
+          "comic_name": "钢铁之星",
+          "last_chapter_name": "第18话上"
+        },
+        {
+          "comic_id": 94164,
+          "comic_name": "奇门女命师",
+          "last_chapter_name": "第46话"
+        },
+        {
+          "comic_id": 99329,
+          "comic_name": "王之牙",
+          "last_chapter_name": "第42话"
+        },
+        {
+          "comic_id": 102302,
+          "comic_name": "宅腐系大佬的养成",
+          "last_chapter_name": "第29话"
+        },
+        {
+          "comic_id": 6139,
+          "comic_name": "魔法禁书目录",
+          "last_chapter_name": "第117话"
+        },
+        {
+          "comic_id": 101822,
+          "comic_name": "这个魔法少女来自蜀山",
+          "last_chapter_name": "第26话"
+        },
+        {
+          "comic_id": 102434,
+          "comic_name": "凶棺",
+          "last_chapter_name": "第60话"
+        },
+        {
+          "comic_id": 99477,
+          "comic_name": "祝由科长是龙王",
+          "last_chapter_name": "第41话"
+        },
+        {
+          "comic_id": 91239,
+          "comic_name": "异现场调查科",
+          "last_chapter_name": "第19话 时间痕（三）"
+        },
+        {
+          "comic_id": 99432,
+          "comic_name": "停下就会死！",
+          "last_chapter_name": "全1话"
+        },
+        {
+          "comic_id": 96453,
+          "comic_name": "小透明生存法则",
+          "last_chapter_name": "最终话 意料之外情理之中"
+        },
+        {
+          "comic_id": 12534,
+          "comic_name": "愚人之旅",
+          "last_chapter_name": "第40话 恋人的惩罚"
+        },
+        {
+          "comic_id": 87114,
+          "comic_name": "虚之结社",
+          "last_chapter_name": "第30话预告"
+        },
+        {
+          "comic_id": 82625,
+          "comic_name": "万里晴川",
+          "last_chapter_name": "第27话 圣女降临"
+        },
+        {
+          "comic_id": 95680,
+          "comic_name": "山海迷踪",
+          "last_chapter_name": "第42话 巨星（十五）"
+        },
+        {
+          "comic_id": 26252,
+          "comic_name": "拜托了！田老爷",
+          "last_chapter_name": "第28话 学生的末日自救"
+        },
+        {
+          "comic_id": 4208,
+          "comic_name": "金无生",
+          "last_chapter_name": "第17话"
+        },
+        {
+          "comic_id": 8666,
+          "comic_name": "巨星养成计划",
+          "last_chapter_name": "第20话"
+        },
+        {
+          "comic_id": 98908,
+          "comic_name": "封神斗战榜",
+          "last_chapter_name": "第90话 死而复生"
+        },
+        {
+          "comic_id": 27359,
+          "comic_name": "灵异事件簿",
+          "last_chapter_name": "第36话"
+        },
+        {
+          "comic_id": 97657,
+          "comic_name": "章鱼小妹进阶攻略",
+          "last_chapter_name": "第79话"
+        },
+        {
+          "comic_id": 100354,
+          "comic_name": "恋爱、漫画与世界末日",
+          "last_chapter_name": "第88话"
+        },
+        {
+          "comic_id": 102152,
+          "comic_name": "魔王的邂逅",
+          "last_chapter_name": "第32话"
+        },
+        {
+          "comic_id": 100058,
+          "comic_name": "BanG Dream!",
+          "last_chapter_name": "BanGDream4话"
+        },
+        {
+          "comic_id": 12533,
+          "comic_name": "锁链战记Crimson",
+          "last_chapter_name": "第14话"
+        },
+        {
+          "comic_id": 10335,
+          "comic_name": "秋叶原之旅",
+          "last_chapter_name": "第03卷"
+        },
+        {
+          "comic_id": 86315,
+          "comic_name": "混沌之子",
+          "last_chapter_name": "第07话"
+        },
+        {
+          "comic_id": 101907,
+          "comic_name": "ACCA13区监察课",
+          "last_chapter_name": "11话"
+        },
+        {
+          "comic_id": 26113,
+          "comic_name": "珈百璃的堕落",
+          "last_chapter_name": "32话"
+        },
+        {
+          "comic_id": 80694,
+          "comic_name": "神明之胄（条漫）",
+          "last_chapter_name": ""
+        },
+        {
+          "comic_id": 97850,
+          "comic_name": "复仇的洛丽丝",
+          "last_chapter_name": "第45话"
+        },
+        {
+          "comic_id": 101862,
+          "comic_name": "易安音乐社",
+          "last_chapter_name": "第31话"
+        },
+        {
+          "comic_id": 94263,
+          "comic_name": "我是天庭扫把星",
+          "last_chapter_name": "第20话"
+        },
+        {
+          "comic_id": 94695,
+          "comic_name": "天降系拍档",
+          "last_chapter_name": "第28话预告"
+        },
+        {
+          "comic_id": 94165,
+          "comic_name": "雪鹰领主",
+          "last_chapter_name": "第30话预告"
+        },
+        {
+          "comic_id": 102394,
+          "comic_name": "灌篮少年OVERTIME",
+          "last_chapter_name": "第05话"
+        },
+        {
+          "comic_id": 102400,
+          "comic_name": "WAUD不死族",
+          "last_chapter_name": "第40话"
+        },
+        {
+          "comic_id": 92732,
+          "comic_name": "御灵幻武",
+          "last_chapter_name": "第6话 新伙伴下"
+        },
+        {
+          "comic_id": 20180,
+          "comic_name": "天之炽",
+          "last_chapter_name": "最终话 阿黛尔的净化"
+        },
+        {
+          "comic_id": 25759,
+          "comic_name": "河伯之书",
+          "last_chapter_name": "第03话 河伯娶妻（下）"
+        },
+        {
+          "comic_id": 4613,
+          "comic_name": "绿豆蛙",
+          "last_chapter_name": "第78话"
+        }
+      ],
+      "slide": [
+        {
+          "comic_id": 101862,
+          "image": "http://image.samanlehua.com/news/24/329124.jpg",
+          "slide_desc": "易安中学音乐社......"
+        },
+        {
+          "comic_id": 11027,
+          "image": "http://image.samanlehua.com/news/23/329123.jpg",
+          "slide_desc": "相遇犹如夏日之风的少女"
+        },
+        {
+          "comic_id": 94695,
+          "image": "http://image.samanlehua.com/news/22/329122.jpg",
+          "slide_desc": "前方那位萌萌哒的兽耳，求等等我！"
+        }
+      ]
+    }
+  ]
+}
